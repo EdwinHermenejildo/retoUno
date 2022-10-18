@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prueba-tecnica-365722",
+  "private_key_id": "182adf42880e40f15872c8daee78288fb4b59a9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsL/Av1yQqyIhO\nx4sTadPBTrS1dnYDJeqzAdopOE44xBViT8/29Y7cw89mrrwElCoZdBAbdAmc8m89\ncyqNYg8tWmqqubKHOzECLAGE3bm47KZNWFkxz1tiOymnp1EZibiBeuzk+7+2OnGg\ngryK4VtU6ritNWJvoIQfQfuO0qjzsgl4pENvjurudz3N5gx2sVfZumY4ohEqqT4e\n5B8LdMisEFW1KeSD78Xz58izlGxgXT0yiHC8I+uyL33ANHpfS5Kl/ma3A0YLe4hu\n1QWS/klfUXVEV6NDzBwOCtf3RYRGhyBb7XAytuuXiVilneb3WUabUxyoV2S6z/G6\n1dwJd+GtAgMBAAECggEABWfd4Qqeko9IJD0Eg0ADy2JWrwnAi7nBhAwvVrLzVbnm\nN/dsfoLYENs+5CjhMz2ZksH/jXUXpitATcwTTmwBMPnRNnns/mzfzYMnKw4w+frH\n/86hwjwR0OQtmxtYIvadacc7r7atnqF4FsNz+uI3VVOnJ5zw8bM24qpWJPY9IqVr\nfDAg9jcKmx9Rcvp0jWZCWHkxxYIqqzruFvi+qiNK5afAO3aBnkUMG+9oNHFBWGJs\nl8aVwlyRTXDkfGwlwDNbyHYM9eXnKY8C/hxAwT2aoCmHBXBrbE1BQGHu6ZtJcp4u\ntOFIo0XYCXaMSxZJIYK8vNeIh49sKu7FqSq8sO99cQKBgQDrwQpGjkmw3C32SPFQ\nVPAEUGGbPvS9WbSxZ/EfaZYAMfQV/ekvJMOY9AEQKIXEUO1xOIrqUKlBy3xJtnjZ\nJZ/yvai6k5EEpSQzMGe1ByCaSjCB0bXLhhTwlC0P6iWeOcieRs7kM8x8M5/nYdUe\n1h/QBFm423a816EBwjfJpDRqZQKBgQC6+WgzNcDNDoA0AqKMvq0D0JLuGXmLofks\n+8aQCiRUxS5dzK+fENPpsGSejruRhbqzwFxEyx6h7+IOu/O5Ejb68f+E859p14tV\n2czzSs90QnY4UeqVxPjbxB+wWACZere/uesoc1DL7DTffJLRPOzJscDq+V1cgVUP\ntOHGidJBqQKBgQDY3HjUUDzPGKqa25xG9erXPQ2cHfxJVYRWkLOH3rthsJHDzQ48\nFIhsYT+9Gll6LatNM+LtCYe4gzLwJ47gyLBqPTZBck66xCIZiFRNfKHr64TVVg/x\niIQojVUqR4uVEbhOh/n2hwN52I8l66N8uyEGW4og9pgxu/RaRsrEjGy+1QKBgGRX\nYt9QsqaZaJ4A6AFGdw18Cs4y57LS+ylz+Szl9Hd11ptKNNnVqxRXsLgS+4BuVzMO\nQbY9l7PqS9QCdBrXNqBX7PwJznx7y3AIUeAjPtAytsUk2RMFQVSXnTYDFFdJr4D6\nIsRzlmHJ4topPZWC78SSW2j+6GazldW3Cg+FeUv5AoGAdeewGwz+N9i/t79pB5+k\nTaxFeeTy7fGp7yeXl40sBo+TGd+JhHbcstWGXj5XHNDRD8rx8LRrkH513CiU0WHW\nAH52pHzrz7EmkVSQaGD57lCkGhFE4s2mCnmXBLGh23r2/tFCunzLp+yy4see3gj7\nJJB626YKsxUmDWbP67XafEk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba-tecnica@prueba-tecnica-365722.iam.gserviceaccount.com",
+  "client_id": "108567497555726786058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba-tecnica%40prueba-tecnica-365722.iam.gserviceaccount.com"
+}
