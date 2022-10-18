@@ -8,7 +8,7 @@ from googleapiclient.errors import HttpError
 
 def pivot_tables(spreadsheet_id):
     import os
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="prueba-tecnica-365722-182adf42880e.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="prueba-tecnica-365722-61ca5f29dbac.json"
     creds, _ = google.auth.default()
     # pylint: disable=maybe-no-member
     try:
