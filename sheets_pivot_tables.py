@@ -10,7 +10,7 @@ def pivot_tables(spreadsheet_id):
     import os
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="prueba-tecnica-365722-61ca5f29dbac.json"
     creds, _ = google.auth.default()
-    # pylint: disable=maybe-no-member
+    breakpoint()
     try:
         service = build('sheets', 'v4', credentials=creds)
         # Create two sheets for our pivot table.
@@ -78,8 +78,7 @@ def pivot_tables(spreadsheet_id):
         body = {
             'requests': requests
         }
-        response = service.spreadsheets() \
-            .batchUpdate(spreadsheetId=spreadsheet_id, body=body).execute()
+        response = service.spreadsheets().batchUpdate(spreadsheetId=spreadsheet_id, body=body).execute()
         return response
 
     except HttpError as error:
